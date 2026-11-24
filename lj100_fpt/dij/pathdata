@@ -1,0 +1,10 @@
+! this is 500 K in h
+TEMPERATURE    0.500
+! plank constant
+! PLANCK 1.5198D-16
+! Standard input for PATHSAMPLE
+NATOMS 100
+NOPOINTS
+CYCLES 0
+! Post-processing procedures
+DIJKSTRALIST

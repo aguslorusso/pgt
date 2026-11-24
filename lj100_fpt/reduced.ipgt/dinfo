@@ -1,0 +1,18 @@
+first 150
+levels 52
+delta 3.0
+scalebar 5
+minima min.data.new
+ts ts.data.new
+scalepos 50 50
+
+! NEWTRMIN 1 peak.2
+! CHOOSECOLOURS
+
+NEWTRVALLIST MFPT.A
+TRVALRANGE -4 56
+TRVALSCALE 40 180
+COLOURFRONT
+
+IDENTIFY
+LABELSIZE 2

@@ -1,0 +1,15 @@
+first 140
+levels 30
+delta 5.0
+scalebar 4
+minima min.data
+ts ts.data
+scalepos 50 50
+! NEWTRMIN 2 peak.1 peak.2
+! CHOOSECOLOURS
+! COLOURFRONT
+idmin 2
+! idmin 592
+! idmin 210
+! idmin 447
+idmin 3

@@ -1,0 +1,14 @@
+first 200
+levels 40
+delta 5.0
+scalebar 4
+minima min.data
+ts ts.data
+scalepos 50 50
+NEWTRMIN 3 peak.1 peak.2 peak.3
+CHOOSECOLOURS
+
+! NEWTRVALLIST MFPT.A
+! TRVALRANGE 6 70
+! TRVALSCALE 40 150
+COLOURFRONT

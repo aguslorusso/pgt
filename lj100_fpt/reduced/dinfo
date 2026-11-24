@@ -1,0 +1,23 @@
+first 120
+levels 42
+delta 3.0
+scalebar 5
+minima min.data.new
+ts ts.data.new
+scalepos 50 50
+
+! NEWTRMIN 1 peak.2
+! CHOOSECOLOURS
+
+NEWTRVALLIST MFPT.A
+TRVALRANGE -5 145
+TRVALSCALE 40 180
+COLOURFRONT
+
+idmin 71
+idmin 3
+idmin 210
+idmin 447
+idmin 6
+idmin 94
+idmin 376

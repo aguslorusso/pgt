@@ -1,0 +1,29 @@
+first -600
+levels 30
+delta 5.0
+scalebar 3
+minima min.data
+ts ts.data
+! identify
+! labelsize 2
+! idmin 1
+! idmin 5
+! idmin 2284
+! idmin 19928
+! lowest 10000
+! newtrvallist MFPT.1
+newtrvallist MFPT.5.0.80
+! newtrvallist MFPT.2284
+trvalscale 40 150
+scalepos 50 50
+trvalrange -5 145
+! trvalrange -5 235
+! trvalrange 0 220
+! widelinecol 0.5
+widelinecol 0.5
+
+idmin 1
+idmin 5
+idmin 15256
+idmin 17
+idmin 19197
