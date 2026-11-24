@@ -1,0 +1,11 @@
+NATOMS          100
+
+NOPOINTS ! Used for post-DPS analysis. Stops setup.f from reading min.data and ts.data files.
+CPUS 1 ! CPU cores used by PATHSAMPLE
+TEMPERATURE 0.06
+DIRECTION AB ! Only do B to A
+
+RENORMREACTANT ! Renorm within connected reactants
+
+NGT 0 T 1.1D0 1 100.1D0  ! standard no dense switch no compressed row storage
+NGTKEEPLIST ! Minima to be kept
